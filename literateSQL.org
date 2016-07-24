@@ -13,6 +13,17 @@ applications. However, it needs messing up with array indices and
 stuff. SQL does not have such requirements, and handles all of these
 with built-in commands.
 
+Here, the tutorial goes from scratch - creating a simple database,
+inserting data/records, adding columns, basic and advanced queries, to
+eventually erasing the table. The tutorial interfaces SQL via emacs,
+and walks through steps required for the complete setup.
 
+* Creating a Database
 
+* Inserting New Records
 
+* Adding More Columns/Fields
+
+* Erasing tables
+
+* Advanced Queries
