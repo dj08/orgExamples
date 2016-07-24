@@ -1,1 +1,18 @@
 #+TITLE: Literate SQL with Emacs Org Mode
+
+* Introduction
+One of the nice features of org-mode is that it integrates nicely with
+various programming languages. Thus, it provides an excellent facility
+for literate programming. This is especially useful for documenting
+efforts with one-off or rarely visited but useful languages. 
+
+This example documents my efforts with SQLite3, which is a great
+implementation for managing data and powering various applications
+through this. Conventionally, =csv= is useful for the latter
+applications. However, it needs messing up with array indices and
+stuff. SQL does not have such requirements, and handles all of these
+with built-in commands.
+
+
+
+
